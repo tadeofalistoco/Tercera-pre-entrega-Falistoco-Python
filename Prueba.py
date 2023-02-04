@@ -1,0 +1,1 @@
+#Esta es una prueba para ver como responde git bash ante el git status
